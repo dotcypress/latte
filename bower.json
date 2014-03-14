@@ -1,0 +1,13 @@
+{
+    "name": "latte",
+    "version": "0.0.0",
+    "dependencies": {
+        "jquery": null,
+        "angular": null,
+        "angularAMD": null,
+        "angular-route": null,
+        "angular-resource": null,
+        "lodash": null,
+        "requirejs": null
+    }
+}
